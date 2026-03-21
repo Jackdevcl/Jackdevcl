@@ -44,4 +44,5 @@ Incorporo IA como parte activa de mi flujo de trabajo — porque adaptarse a las
 
 ---
 ¿Algun proyecto interesante? Contáctame.
+
 📧 joaquinmarcelo13@gmail.com
