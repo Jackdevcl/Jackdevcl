@@ -33,6 +33,15 @@ Software Engineer con foco en desarrollo web y arquitecturas cloud. La tecnolog�
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+Incorporo IA como parte activa de mi flujo de trabajo — porque adaptarse a las nuevas herramientas no es opcional, es parte de crecer como dev.
+**IA & Herramientas**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+
+
 ---
 ¿Algun proyecto interesante? Contáctame.
 📧 joaquinmarcelo13@gmail.com
